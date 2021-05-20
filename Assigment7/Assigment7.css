@@ -1,0 +1,253 @@
+ *{
+     box-sizing: border-box;
+     
+ }
+ .class{
+display: flex;
+margin-top: 30px;
+background-color: black;
+border: 5px solid blanchedalmond;
+}
+.class1{
+    flex-grow: 18;
+   padding: 0px 20px 0px 30px;
+   color: blanchedalmond; 
+}
+
+.class1 p{
+    text-align: start;
+}
+.class img{
+    margin-top: 0px;
+}
+p::first-line{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.class2{
+    flex-grow:1;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.class2:hover{
+   
+    background-color: red;
+    border-radius: 10px 30px 10px 30px;
+}
+
+.class3{
+    flex-grow: 1;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+.class3:hover{
+    background-color: red;
+    border-radius: 10px 30px 10px 30px;
+}
+.class4{
+    flex-grow: 1;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+.class4:hover{
+    background-color: red;
+    border-radius: 10px 30px 10px 30px;
+}
+.class5{
+    flex-grow: 1;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+.class5:hover{
+    background-color: red;
+    border-radius: 10px 30px 10px 30px;
+}
+.class6{
+    flex-grow: 1;
+    padding: 60px 0px 0px 0px;
+    text-align: center;
+}
+.class6:hover{
+    background-color: red;
+    border-radius: 10px 30px 10px 30px;
+}
+.blog{
+padding: 20px 0px 0px 15px ;
+}
+.blog1{
+    float: left;
+}
+.blog2{
+    float: left;
+}
+.blog3{
+    float: left;
+}
+.blog4{
+    float: left;
+}
+.blog5{
+    float:left;
+}
+.text{
+    padding: 10px 0px 0px 20px;
+    width: 200px;
+    text-align: center;
+}
+
+.text p::first-letter{
+    color: red;
+
+}
+.text{
+    float: left;
+    border-right:2px solid Black;
+    height: 120px;
+}
+
+.text1 p::first-line{
+     text-align: center;
+     color: red;
+}
+    
+}
+.text1 p{
+    float: right;
+    width: 1030px;
+    height: 120px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+.s{
+    display: flex;
+    padding: 0px 20px 20px 20px;
+    justify-content: space-evenly;
+}
+.s1 p{
+
+   text-align:justify;
+   height: 100px;
+   width: 250px;
+   
+}
+.s2 p{
+
+   text-align:justify;
+   height: 100px;
+   width: 250px;
+}
+.s3 p{
+    
+    text-align:justify;
+    height: 100px;
+    width: 250px;
+}
+.s4 p{
+    
+    text-align:justify;
+    height: 100px;
+    width: 250px;
+}
+
+* h3{
+    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+* h5{
+    border: 3px solid black;
+    width: 80px;
+    height: 20px;
+    background-color: red;
+    margin-top: -30px;
+
+}
+.mg1{
+    float: left;
+    }
+
+   .mg1 h2{
+       margin-left: 140px;
+   } 
+    .mg2{
+        float: right;
+        width: 400px;
+        height: 200px;
+    }
+.mg3{
+    float: left;
+    margin-left: 40px;
+    
+    
+}   
+.mg4
+{
+    float: right;
+    margin-left: 100px;
+    margin-top: -110px;
+    
+}   
+.mg5{
+    display: flex;  
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.d1{
+padding: 10px;
+}
+.d2{
+    padding: 10px;
+    }
+    .d3{
+        padding: 10px;
+        }
+        .d4{
+            padding: 10px;
+            }
+            .d5{
+                padding: 10px;
+                }
+                .d6{
+                    padding: 10px;
+                    }  
+                    .d7{
+                        padding: 10px;
+                        }  
+                        .d8{
+                            padding: 10px;
+                            }  
+                            .d9{
+                                padding: 10px;
+                                } 
+                                .d10{
+                                    padding: 10px;
+                                    }
+                                    .d11{
+                                        padding: 10px;
+                                        } 
+                                        .d12{
+                                            padding: 10px;
+                                            }   
+  
+ .c1{
+     background-color: cadetblue;
+     height: 40px;
+     padding-top: 10px;
+    } 
+ }                                           
+.c2{
+    padding-top: 10px;
+}
+.c1 i{
+    margin-left: 50px;
+}                                            
+
+.c2 i{
+    float: right;
+    margin-right: 30px;
+    margin-top: -15px;
+}
